@@ -1,3 +1,17 @@
 div {
     text-align: center
 }
+.footer-disclaimer {
+    position: fixed;
+    bottom:0.5%;
+    right: 0.5%;
+    font-size: 1.1rem;
+}
+.header {
+    padding-top: 5rem;
+}
+.container {
+    min-height: -webkit-fill-available;
+    height: 60rem;
+    min-height: fill-available;
+}
