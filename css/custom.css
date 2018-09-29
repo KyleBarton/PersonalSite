@@ -1,6 +1,3 @@
-div {
-    text-align: center
-}
 .footer-disclaimer {
     position: fixed;
     bottom:0.5%;
@@ -9,6 +6,7 @@ div {
 }
 .header {
     padding-top: 5rem;
+    text-align: center
 }
 .container {
     padding-top: 5rem;

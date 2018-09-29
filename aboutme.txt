@@ -1,4 +1,6 @@
 I'm a software engineer living in Portland, OR. In 2014, I graduated from Lewis & Clark College and got my start in web development at Incomm Digital Solutions, moving in 2017 to work at M Science. I've worked with some incredible engineers to develop software applications focused on providing the user with the best possible experience, while simultaneously tackling some important technical problems that faced my teams. Some design solutions to which I've contributed include:
 - Migrating from on-premises applications to a cloud-based infrastructure
 - Designing next-generation APIs to accomodate more load than their predecessors could handle, leaning on asynchronous fulfillment, randomized (rather than serial) URI generation, and queuing systems to increase our capacity to scale horizontally
-- 
+- Leveraging modern DevOps tools to automate the software delivery pipeline, from text editor all the way to production
+
+In my spare time, I love reading, playing board games, and playing lots of ultimate frisbee! I coach at Lewis & Clark college, and play with my own team as well.
