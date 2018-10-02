@@ -9,9 +9,9 @@
     text-align: center
 }
 .container {
-    padding-top: 5rem;
+    padding-top: 10%;
     min-height: -webkit-fill-available;
-    height: 60rem;
+    height: 50%;
     min-height: fill-available;
 }
 .top-banner {
